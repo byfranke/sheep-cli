@@ -4,6 +4,9 @@ Autonomous CLI agent for Cyber Threat Intelligence, powered by the [Sheep API](h
 
 Threat intelligence, IOC enrichment, MITRE ATT&CK grounding and an interactive REPL with structured outputs (JSON, PDF, STIX 2.1) — all from your terminal.
 
+<img width="1102" height="580" alt="{2B7BA402-46F2-4CFE-9FC5-EE842C9E0BBD}" src="https://github.com/user-attachments/assets/68b31fc7-ff3e-4e7f-8d07-99ee9de4f4d6" />
+
+
 ## Install
 
 ### Linux / macOS
